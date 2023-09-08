@@ -1,0 +1,20 @@
+number of lines=number of rows=number of times the outer loop will execute
+
+first check the condition of the outer loop 
+if the condition in the outer loop is true then execute the code written inside the outer loop
+
+then check the condition of the inner loop 
+if the condition inside the inner loop is true then execute the code written inside the inner loop
+
+increment or decrement the value after the end of the code
+
+while row is less than 5 
+execute outer for loop
+while col is less than 5
+execute inner for loop
+
+1 
+2 3
+4 5 6
+7 8 9 10
+

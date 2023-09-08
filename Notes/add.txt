@@ -1,0 +1,35 @@
+import java.util.*;
+
+class Calc{
+    int a,  b;
+
+    void getdata(int x, int y){
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("Enter two numbers for addition:");
+
+        this.a=x;
+        sc.nextInt();
+        this.b=y;
+        sc.nextInt();
+
+        sc.close();
+    }
+
+    int add(){
+        return a+b;
+    }
+}
+
+public class Cs{
+    public static void main(String[] args) throws Exception{
+        int sum;
+        //This is just a reference which doesn't have memory allocated to it
+        Calc c1;
+        c1=new Calc();
+
+        c1.getdata(10, 20);
+        sum = c1.add();
+        System.out.print("The sum of two numbers is " + sum);
+    }
+}

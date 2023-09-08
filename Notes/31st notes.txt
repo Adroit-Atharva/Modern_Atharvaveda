@@ -1,0 +1,15 @@
+javac(compiler) compiles source code i.e high level which has extension .java
+
+.class file is created after the compilation of .java(source code) which contains byte code
+
+Java Virtual machine(JVM) executes the .class file i.e the bytecode by interpreting theme line by line using Jit
+
+after interpreting bytecode JRE runs the java program
+
+JVM is platform dependent i.e different devices would have different versions of JVM 
+
+java is platform independent because java compiler creates a bytecode(.class file) instead of creating a binary code that has 0s and 1s. 
+
+This bytecode(.class file) is platform independent as it can be executed on any device that has a JVM
+
+

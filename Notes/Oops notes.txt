@@ -1,0 +1,22 @@
+Oops concepts:-
+1. classes and objects
+
+2. Inheritance and Interfaces:- 
+1. Single:- A single class is derived from a single base class.
+2. Multiple:- A single class is derived from multiple base classes.
+3. Hierarchial:- Multiple classes derived from a single base class.
+4. Multilevel:- A single class is derived from another derived class.
+5. Hybrid:- combination of multiple types of inheritance
+
+
+3. Data Ecapsulation:- capsulating/binding of data(data members/varibles and member funcitons/methods)
+ex. classes
+
+
+4. Data Abstraction:- Hiding of data
+ex. Interfaces and abstract classes, abstract functions/methods
+
+5. Polymorphism:-Same name different uses
+a.compile time polymorphism:- 
+ 
+b.run time polymorphism:-

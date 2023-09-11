@@ -1,0 +1,24 @@
+compile time:-
+function overloading:- same function with different types or different number of parameters.
+operator overloading:- 
+
+runtime polymorphism:-
+Overriding:- redefination of a function of base in derived class
+
+int main(){
+
+
+	int calc(int a, int b){
+		return a+b;
+}
+
+	int calc(double a, double b){
+		return a-b;
+}
+
+     int calc(int a, int b , int c){
+		return a+b-c;
+}
+
+
+}

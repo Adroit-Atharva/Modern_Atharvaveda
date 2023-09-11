@@ -1,0 +1,15 @@
+Inheritance:- The ability to inherit the properties or functionality of parent class
+
+what is the use Inheritance?
+Code reusability
+
+Interface:- The ability to hide the irrelevent info from the user.
+
+What is the use of Interface?
+Data hiding
+
+Can we multiple inheritance through Interfaces?
+NO
+
+What is abstract method?
+It is a method that doesn't have a definition

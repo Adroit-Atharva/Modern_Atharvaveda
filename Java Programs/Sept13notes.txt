@@ -1,0 +1,33 @@
+How to create a package?
+->package packagename. 
+A package's first line should always be the above one.
+This is used to create that has classes which has methods. 
+The class and the method needs to be public for us to import it in another code.
+
+How do we compile package?
+->javac -d . Filename.java
+After compiling the package it will create a package(folder) of the packagename
+This folder has .class files
+
+How do we run a package?
+->java package(folder).classname
+The package must have main() method if we want to run the package.
+
+what is collection?
+-> It is a Framework in java.util package.
+It has a set of classes and interfaces that have built functions of data structures.
+If we want to use built methods of data structures then we have to import java.util.collections
+
+Built in functions/methods for inserting/updating/deleting or replacing are stored in collections.
+
+types of data structures:
+1. Linear data Structure:- Arrays(linear sequence of similar data types),
+ L.L(linked to eachother using pointers),
+ stack(filo), 
+queue(fifo)
+
+
+2. Non linear data Structure:- Trees and graphs 
+
+
+
